@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Barcelona's Air Quality
 Daria Gavrilova and Àlex Gómez
 
 Data Analytics FT OCT Barcelona 30/10/2020
